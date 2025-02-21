@@ -9,8 +9,7 @@
 - Identify the color of detected traffic lights (Red, Green, Yellow).
 
 ## Screenshot
-![TrafficVision App Screenshot]("Screenshot 2025-02-21 200900.png")
-
+![TrafficVision App Screenshot](<Screenshot 2025-02-21 200900-1.png>)
 
 ## Installation
 
