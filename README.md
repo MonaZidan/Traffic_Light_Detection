@@ -9,8 +9,7 @@
 - Identify the color of detected traffic lights (Red, Green, Yellow).
 
 ## Screenshot
-
-![TrafficVision App Screenshot]("G:\Route_AI_Diploma\Eng-Mahmoud_yahia\Final_Projects\Traffic_Ligths_Detection\object-detection-new-york-street.jpg")
+![TrafficVision App Screenshot](object-detection-new-york-street.jpg)
 
 
 ## Installation
@@ -44,6 +43,4 @@
 
 5. See the detected objects and the color of any detected traffic lights.
 
-or
-[![Try TrafficVision](https://img.shields.io/badge/Try-TrafficVision-yellow?style=for-the-badge&logo=streamlit)](https://your-deployed-app-url.com)
 
